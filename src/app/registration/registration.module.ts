@@ -5,8 +5,8 @@ import { RegistraionComponent } from './registraion.component';
 import { Router } from '@angular/router/src/router';
 
 const pathList: Routes = [
-  { path: "register", component: RegistraionComponent }
-]
+  { path: 'register', component: RegistraionComponent }
+];
 
 @NgModule({
   imports: [
